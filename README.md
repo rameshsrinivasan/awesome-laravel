@@ -558,4 +558,4 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Contributing
 
-Found an awesome package, blog, video etc.? Send me a mail at [rameshsrinivasanbe@gmail.com] (mailto:rameshsrinivasanbe@gmail.com)
+Found an awesome package, blog, video etc.? Send me a mail at [rameshsrinivasanbe@gmail.com] (rameshsrinivasanbe@gmail.com)
